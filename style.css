@@ -1,0 +1,21 @@
+*{
+    background-color: aqua;
+}
+.container {
+    text-align: center;
+}
+img{
+    height: 70vh;
+    border: 5px solid black;
+}
+.btn{
+    text-align: center;
+}
+#btn{
+    
+    height: 6vh;
+    width: 10vw;
+    background-color: black;
+    color: aliceblue;
+    border-radius: 8px;
+}
